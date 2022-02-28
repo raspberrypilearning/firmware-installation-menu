@@ -1,59 +1,21 @@
-## Introduction
+Firmware installation menu
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You can also access the firmware installation menu if you click on 'MicroPython (Raspberry Pi Pico)' in the status bar and choose 'Configure interpreter ...'.
 
-### What you will make
+![Configure interpreter menu](images/thonny-configure-interpreter.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+The interpreter settings will open.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![Configure interpreter settings](images/thonny-interpreter-settings.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Click on **Install or update firmware**. 
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+You will be prompted to plug in your Raspberry Pi Pico while you hold the BOOTSEL button. 
 
-+ A computer or tablet capable of running Scratch 3
+![Hold BOOTSEL button and plug in](images/thonny-bootsel.png)
 
-### Software
+Then you can click **Install**. 
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+![Install firmware](images/thonny-firmware-install.png)
 
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+Wait for the installation to complete and click **Close**.
